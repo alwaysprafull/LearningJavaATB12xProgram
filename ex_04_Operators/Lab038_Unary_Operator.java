@@ -8,6 +8,7 @@ public class Lab038_Unary_Operator {
         // Unary Operator
         int a = 10;
         int a1 = -110;
+        int a2=120;
         int result = a+a1;
         System.out.println(a);
         System.out.println(a1);
