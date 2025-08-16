@@ -12,6 +12,7 @@ class XYZ {
 class CAB extends XYZ{
     void display(){
         System.out.println(super.my_gold);
+        // test
     }
 }
 
